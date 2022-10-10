@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/colorbox/static/css/main.bfed192f.css",
+    "main.js": "/colorbox/static/js/main.516976f6.js",
+    "static/js/787.be494133.chunk.js": "/colorbox/static/js/787.be494133.chunk.js",
+    "index.html": "/colorbox/index.html",
+    "main.bfed192f.css.map": "/colorbox/static/css/main.bfed192f.css.map",
+    "main.516976f6.js.map": "/colorbox/static/js/main.516976f6.js.map",
+    "787.be494133.chunk.js.map": "/colorbox/static/js/787.be494133.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfed192f.css",
+    "static/js/main.516976f6.js"
+  ]
+}
